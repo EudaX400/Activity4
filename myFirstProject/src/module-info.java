@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author eudald
+ *
+ */
+module myFirstProject {
+}
